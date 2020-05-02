@@ -1,0 +1,12 @@
+C:\Users\serda\source\repos\Menevis\Menevis.Core\bin\Debug\netcoreapp2.2\Menevis.Core.deps.json
+C:\Users\serda\source\repos\Menevis\Menevis.Core\bin\Debug\netcoreapp2.2\Menevis.Core.dll
+C:\Users\serda\source\repos\Menevis\Menevis.Core\bin\Debug\netcoreapp2.2\Menevis.Core.pdb
+C:\Users\serda\source\repos\Menevis\Menevis.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\serda\source\repos\Menevis\Menevis.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.AssemblyInfo.cs
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.csproj.CopyComplete
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.dll
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.pdb
+C:\Users\serda\source\repos\Menevis\Menevis.Core\obj\Debug\netcoreapp2.2\Menevis.Core.csprojAssemblyReference.cache

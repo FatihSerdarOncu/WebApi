@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Menevis.DAL\Menevis.DAL.csproj" />
+    <ProjectReference Include="..\Menevis.Entities\Menevis.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

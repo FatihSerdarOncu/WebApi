@@ -1,0 +1,14 @@
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.DAL.deps.json
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.DAL.dll
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.DAL.pdb
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.Core.dll
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.Entities.dll
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.Entities.pdb
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\bin\Debug\netcoreapp2.2\Menevis.Core.pdb
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.AssemblyInfo.cs
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.csproj.CopyComplete
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.dll
+C:\Users\serda\source\repos\Menevis\Menevis.DAL\obj\Debug\netcoreapp2.2\Menevis.DAL.pdb
